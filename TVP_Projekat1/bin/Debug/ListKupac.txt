@@ -1,0 +1,3 @@
+3, Ana, 1999, Kupac
+6, Ivana, 1965, Kupac
+2, Anita, 1997, Kupac

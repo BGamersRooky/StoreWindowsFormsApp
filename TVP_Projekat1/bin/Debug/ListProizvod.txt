@@ -1,0 +1,5 @@
+1, Kljuc, 10000
+5, Baterija, 300
+3, Kesa, 5
+4, Telefon, 1020
+2, Kompjuter, 200000

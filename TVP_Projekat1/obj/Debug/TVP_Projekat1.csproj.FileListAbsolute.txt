@@ -1,0 +1,15 @@
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\bin\Debug\TVP_Projekat1.exe.config
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\bin\Debug\TVP_Projekat1.exe
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\bin\Debug\TVP_Projekat1.pdb
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.Properties.Resources.resources
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.exe
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.pdb
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.UpravljajKorisnicima.resources
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.Prodavnica.resources
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.UpravljajProizvodima.resources
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.KupiProizvod.resources
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.OtkaziPorudzbinu.resources
+C:\Users\filip\source\repos\TVP_Projekat1\TVP_Projekat1\obj\Debug\TVP_Projekat1.Statistika.resources
